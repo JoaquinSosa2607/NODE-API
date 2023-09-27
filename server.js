@@ -12,7 +12,7 @@ app.get('/', (req,res) => {
 
     res.status(200).json({
 
-        "msj": "Que onda pa"
+        "msj": "Everything All Right"
     })
 })
 
